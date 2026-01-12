@@ -1,7 +1,7 @@
 {
 	"compatibility_date": "2025-10-08",
 	"main": "src/server/index.ts",
-	"name": "betterme",
+	"name": "black-mountain-0e2b",
 	"migrations": [
 		{
 			"new_sqlite_classes": ["Chat"],
